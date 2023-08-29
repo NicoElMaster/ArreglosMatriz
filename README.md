@@ -1,6 +1,6 @@
-Descripcion
+Descripción
 ===========
-Esta es una descripcion
+Este es el resultado del código....
 
 ![Alt text](imagen1.png "imagen descripcion")
 
